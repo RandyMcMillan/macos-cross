@@ -1,0 +1,8 @@
+[submodule "macos-cross-ios"]
+	path = macos-cross-ios
+	url = git@github.com:RandyMcMillan/macos-cross-ios.git
+	branch = master
+[submodule "macos-cross-mac"]
+	path = macos-cross-mac
+	url = git@github.com:RandyMcMillan/macos-cross-mac.git
+	branch = master
