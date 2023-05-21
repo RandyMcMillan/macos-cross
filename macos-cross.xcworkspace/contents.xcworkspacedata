@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:macos-cross-mac"
+      name = "macos-cross-mac">
+      <FileRef
+         location = "group:/Volumes/git/macos-cross/macos-cross-mac/macos-cross-mac.xcodeproj">
+      </FileRef>
+      <Group
+         location = "group:CMacsTests"
+         name = "macos-cross-mac-tests">
+         <FileRef
+            location = "group:/Volumes/git/macos-cross/macos-cross-mac/CMacsTests/macos-cross-mac-tests.m">
+         </FileRef>
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:Icons.icns">
+      </FileRef>
+      <FileRef
+         location = "group:README.md">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:macos-cross-ios"
+      name = "macos-cross-ios">
+      <FileRef
+         location = "group:/Volumes/git/macos-cross/macos-cross-ios/macos-cross-ios.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:README.md">
+      </FileRef>
+   </Group>
+</Workspace>
